@@ -186,13 +186,13 @@ i {
 	margin: 0 auto;
 }
 
-#weather{
+#weather-content{
 	width: 100%;
 	height: auto;
 	text-align: center;
 	text-transform: uppercase;
 }
-#weather h2 {
+#weather-content h2 {
   margin: 0 0 8px;
   color: #fff;
   font-size: 8em;
@@ -202,14 +202,14 @@ i {
 }
 
 
-#weather .weather_list{
+#weather-content .weather_list{
 	margin: 0 auto 2em auto;
 	padding: 0;
 	text-align: center;
 	width: 100%;
 
 }
-#weather .weather_list li{	
+#weather-content .weather_list li{	
 	display: block;	
 	display: inline-block;	
 	background-color: rgba(255,255,255,0.5);
